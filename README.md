@@ -24,18 +24,13 @@ The methodology used for the analysis includes the following steps:
 ## Requirements
 The following tools and libraries were used in this project:
 
-- Python 3.8.8
-- Jupyter Notebook 6.0.3
-- Pandas 1.0.5
-- NumPy 1.18.5
-- Matplotlib 3.2.2
-- Seaborn 0.10.1
-- Scikit-learn 0.23.1
+- Tableau
+- MS Excel
+- MS Powerpoint
 
 ## Files
-- airbnb_new_york.ipynb: Jupyter notebook containing the code for the analysis.
-- airbnb_new_york_methodology.pdf: Methodology document containing detailed explanations of the steps and code used in the analysis.
-- airbnb_data: Folder containing the raw data used in the analysis.
+- Airbnb Case Study PPT 1.twbx: Tableauworkbook containing the visualizations for the analysis.
+- Airbnb Case Study PPT 2.twbx: Tableauworkbook containing the visualizations for the analysis.
 
 ## Presentations
 Two presentations were created based on the analysis results:
